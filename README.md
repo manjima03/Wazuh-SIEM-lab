@@ -8,6 +8,3 @@ A home lab created using Wazuh as SIEM and XDR platform to simulate, detect and 
 
 **Architecture:**
 
-
-
-
