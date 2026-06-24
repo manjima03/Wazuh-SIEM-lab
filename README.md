@@ -11,3 +11,23 @@ This project consists of 2 virtual machines, an Ubuntu vm used as the Wazuh mana
 
 ![Architecture diagram](/images/github.drawio.png)
 
+**Objectives:**
+ - Deploy and configure a functional SIEM/XDR environment using Wazuh.
+ - Simulate realistic attack techniques in a controlled lab environment.
+ - Develop and tune custom Wazuh detection rules.
+ - Monitor endpoint activity and analyze generated security alerts.
+ - Investigate incidents using Wazuh dashboards and event logs.
+ - Map detected activities to the MITRE ATT&CK framework.
+
+**Screenshots:**
+(/images/github.drawio.png)
+
+(/images/FIM dashboard.png)
+
+(/images/.png)
+
+(/images/github.drawio.png)
+
+(/images/github.drawio.png)
+
+(/images/github.drawio.png)
