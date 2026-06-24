@@ -22,7 +22,7 @@ This project consists of 2 virtual machines, an Ubuntu vm used as the Wazuh mana
 **Screenshots:**
 ![Dashboard](/images/dashboard.png)
 
-![FIM Dashboard](/images/FIM _dashboard.png)
+![FIM Dashboard](/images/FIM_dashboard.png)
 
 ![failed Login](/images/Failed_login_attempt.png)
 
