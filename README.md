@@ -16,13 +16,13 @@ This project consists of 2 virtual machines, an Ubuntu vm used as the Wazuh mana
  - Simulate realistic attack techniques in a controlled lab environment.
  - Develop and tune custom Wazuh detection rules.
  - Monitor endpoint activity and analyze generated security alerts.
- - Investigate incidents using Wazuh dashboards and event logs.
+ - Investigate incidents using Wazuh dashboards and event logs.   
  - Map detected activities to the MITRE ATT&CK framework.
 
 **Screenshots:**
 ![Dashboard](/images/dashboard.png)
 
-![FIM Dashboard](/images/FIM_dashboard.png)
+![FIM Dashboard](/images/FIM _dashboard.png)
 
 ![failed Login](/images/Failed_login_attempt.png)
 
