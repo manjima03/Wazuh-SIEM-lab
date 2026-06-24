@@ -20,9 +20,9 @@ This project consists of 2 virtual machines, an Ubuntu vm used as the Wazuh mana
  - Map detected activities to the MITRE ATT&CK framework.
 
 **Screenshots:**
-(/images/github.drawio.png)
+![Dashboard](/images/dashboard.png)
 
-(/images/FIM dashboard.png)
+![FIM Dashboard](/images/FIM dashboard.png)
 
 (/images/.png)
 
